@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="send_button">Add Task</string>
+    <string name="task_text">Enter a new task</string>
+    <string name="confirm_button">Create</string>
+    <string name="title_activity_create_task">New task</string>
+    <string name="to_do">To do...</string>
+    <string name="ok">OK</string>
+</resources>
